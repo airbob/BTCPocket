@@ -1,0 +1,28 @@
+
+/* For generic page styles. Not for sliders. */
+
+.appheader img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: #555;
+}
+
+.appheader h1 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+}
+.appheader h5 {
+  position: relative;
+  left: 40px;
+}
+.appcontent {
+	margin-top: 50px;
+	margin-left:30px;
+}
+
+.appdownload {
+	margin-left:30px;
+	
+}
